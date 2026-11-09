@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://portofolio-fadhil-anwar.vercel.app/sitemap.xml
